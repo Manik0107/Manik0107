@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Manik0107?style=for-the-badge&logo=github&labelColor=1a1b27&color=a9fef7)](https://github.com/Manik0107)
 [![Profile Views](https://komarev.com/ghpvc/?username=Manik0107&style=for-the-badge&color=a9fef7&labelColor=1a1b27)](https://github.com/Manik0107)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=1a1b27)](https://linkedin.com/in/manik-manavenddra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=1a1b27)](https://www.linkedin.com/in/manik-manavenddra-m-1a62561b2/)
 
 </div>
 
@@ -149,41 +149,6 @@ I architect and develop **end-to-end AI systems** that go beyond prototypes. My 
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=99999&color=A6E3A1&center=true&vCenter=true&width=550&lines=My+Development+Workflow" alt="Development Workflow" />
-
-```mermaid
-graph LR
-    A[💡 Problem] --> B[🔍 Research & Planning]
-    B --> C[🏗️ Architecture Design]
-    C --> D[⚙️ Implementation]
-    D --> E[🧪 Testing & Validation]
-    E --> F[🚀 Deployment]
-    F --> G[📊 Monitoring & Iteration]
-    G --> A
-    
-    style A fill:#a9fef7,stroke:#1a1b27,stroke-width:2px,color:#1a1b27
-    style B fill:#70a5fd,stroke:#1a1b27,stroke-width:2px,color:#1a1b27
-    style C fill:#f5c2e7,stroke:#1a1b27,stroke-width:2px,color:#1a1b27
-    style D fill:#cba6f7,stroke:#1a1b27,stroke-width:2px,color:#1a1b27
-    style E fill:#f9e2af,stroke:#1a1b27,stroke-width:2px,color:#1a1b27
-    style F fill:#a6e3a1,stroke:#1a1b27,stroke-width:2px,color:#1a1b27
-    style G fill:#fab387,stroke:#1a1b27,stroke-width:2px,color:#1a1b27
-```
-
-</div>
-
-### 🎯 Engineering Principles I Live By
-
-```
-🏗️  Architecture First    → Design systems that scale before writing code
-⚡  Production > Prototypes → Ship real products, not impressive demos
-🎯  Deterministic AI       → Structured outputs over vague LLM responses
-🧩  Modular Design         → Build composable, reusable components
-🔍  Systems Thinking       → Understand the full stack, not isolated features
-📚  Document Everything    → Code clarity and maintainability matter
-🚀  Ship Iteratively       → Deploy early, gather feedback, improve continuously
-```
-
 ---
 
 <div align="center">
@@ -191,13 +156,13 @@ graph LR
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=99999&color=FAB387&center=true&vCenter=true&width=350&lines=Let's+Connect" alt="Let's Connect" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Manik0107-181717?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Manik0107)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=1a1b27)](https://linkedin.com/in/manik-manavenddra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=1a1b27)](https://www.linkedin.com/in/manik-manavenddra-m-1a62561b2/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&labelColor=1a1b27)](mailto:manikmanavenddra@gmail.com)
 
-### 💼 Open to Collaboration
+### <span style="color: #CBA6F7;">Open to Collaboration</span>
 
-I'm interested in working on **serious AI products** and **developer tools** that solve real problems.  
-If you're building something ambitious, let's talk!
+I'm interested in working on **<span style="color: #70A5FD;">serious AI products</span>** and **<span style="color: #70A5FD;">developer tools</span>** that solve real problems.  
+If you're building something ambitious, **<span style="color: #FAB387;">let's talk!</span>**
 
 </div>
 
@@ -205,12 +170,7 @@ If you're building something ambitious, let's talk!
 
 <div align="center">
 
-### ⭐ If you find my work interesting, consider starring my repositories!
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
----
-
-<sub>✨ Built with passion for production-ready AI systems ✨</sub>
 
 </div>
