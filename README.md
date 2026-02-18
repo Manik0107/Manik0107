@@ -10,7 +10,7 @@
 
 <div align="center">
   
-### 🚀 Building AI Systems That Ship to Production — Not Just Demos
+### Building AI Systems That Ship to Production — Not Just Demos
 
 I architect and develop **end-to-end AI systems** that go beyond prototypes. My focus is on **LLM-powered applications**, **retrieval-augmented generation (RAG)**, **AI agents**, and **developer tooling** designed for real-world scale, performance, and maintainability.
 
