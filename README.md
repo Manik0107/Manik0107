@@ -58,7 +58,6 @@ I architect and develop **end-to-end AI systems** that go beyond prototypes. My 
 
 ---
 
-
 <div align="center">
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=99999&color=FAB387&center=true&vCenter=true&width=350&lines=Let's+Connect" alt="Let's Connect" />
@@ -66,13 +65,6 @@ I architect and develop **end-to-end AI systems** that go beyond prototypes. My 
 [![GitHub](https://img.shields.io/badge/GitHub-Manik0107-181717?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/Manik0107)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=1a1b27)](https://www.linkedin.com/in/manik-manavenddra-m-1a62561b2/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&labelColor=1a1b27)](mailto:manikmanavenddra@gmail.com)
-
-### <span style="color: #CBA6F7;">Open to Collaboration</span>
-
-I'm interested in working on **<span style="color: #70A5FD;">serious AI products</span>** and **<span style="color: #70A5FD;">developer tools</span>** that solve real problems.  
-If you're building something ambitious, **<span style="color: #FAB387;">let's talk!</span>**
-
-</div>
 
 ---
 
