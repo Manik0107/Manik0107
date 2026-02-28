@@ -20,7 +20,7 @@ I architect and develop **end-to-end AI systems** that go beyond prototypes. My 
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=99999&color=70A5FD&center=true&vCenter=true&width=450&lines=Tech+Stack+%26+Tools" alt="Tech Stack" />
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
