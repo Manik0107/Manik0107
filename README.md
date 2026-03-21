@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=084C52,031E21&center=true&vCenter=true&width=940&lines=Hi+,+Manik+Manavenddra+M;AI+Engineer+%7C+Software+Engineer;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=084C52,031E21&center=true&vCenter=true&width=940&lines=Manik+Manavenddra+M;AI+Engineer+%7C+Software+Engineer;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Manik0107?style=for-the-badge&logo=github&labelColor=1a1b27&color=1B6F72)](https://github.com/Manik0107)
 [![Profile Views](https://komarev.com/ghpvc/?username=Manik0107&style=for-the-badge&color=1B6F72&labelColor=1a1b27)](https://github.com/Manik0107)
@@ -10,9 +10,9 @@
 
 <div align="center">
   
-### Building AI Systems That Ship to Production — Not Just Demos
+### Building AI Systems That Ship to Production — " Not Just Demos "
 
-I architect and develop **end-to-end AI systems** that go beyond prototypes. My focus is on **LLM-powered applications**, **retrieval-augmented generation (RAG)**, **AI agents**, and **developer tooling** designed for real-world scale, performance, and maintainability.
+I architect and build AI systems that work in the real world. From prototype to production, I focus on creating intelligent solutions that are reliable, scalable, and genuinely useful. My work spans **Generative AI, Agentic AI, MLOps, AIOps, Retrieval Augmented Generation, custom Large Language Models and Vision Language Models applications, and end-to-end ML pipelines**.
 
 </div>
 
