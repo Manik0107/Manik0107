@@ -10,7 +10,7 @@
 
 <div align="center">
   
-### Building AI Systems That Ship to Production — " Not Just Demos "
+### Building AI Systems That Ship to Production
 
 I architect and build AI systems that work in the real world. From prototype to production, I focus on creating intelligent solutions that are reliable, scalable, and genuinely useful. My work spans **Generative AI, Agentic AI, MLOps, AIOps, Retrieval Augmented Generation, custom Large Language Models and Vision Language Models applications, and end-to-end Machine Learning pipelines**.
 
