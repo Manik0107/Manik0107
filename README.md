@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=084C52,031E21&center=true&vCenter=true&width=940&lines=Manik+Manavenddra+M;AI+Engineer+%7C+Software+Engineer;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/Manik0107?style=for-the-badge&logo=github&labelColor=1a1b27&color=1B6F72)](https://github.com/Manik0107)
 [![Profile Views](https://komarev.com/ghpvc/?username=Manik0107&style=for-the-badge&color=1B6F72&labelColor=1a1b27)](https://github.com/Manik0107)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=1a1b27)](https://www.linkedin.com/in/manik-manavenddra-m-1a62561b2/)
 
